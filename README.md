@@ -1,5 +1,4 @@
 # Description
-
 ![Screenshot of DefectDojo](./doc/img/screenshot1.png)
 
 DefectDojo is a tool created by the Security Engineering team at Rackspace to
